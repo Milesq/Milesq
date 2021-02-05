@@ -1,0 +1,136 @@
+javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+typescript: https://www.typescriptlang.org/
+rust: https://www.rust-lang.org/
+python: https://www.python.org/
+go: https://golang.org/
+kotlin: https://kotlinlang.org/
+
+html: https://www.w3.org/html/
+css: https://css-tricks.com/
+sass: https://sass-lang.com/
+es6: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+json: https://www.json.org/json-en.html
+yaml: https://yaml.org/
+markdown: https://daringfireball.net/projects/markdown/syntax
+
+docker: https://www.docker.com/
+git: https://git-scm.com/
+github: https://github.com
+
+
+vue: http://vuejs.org/
+react: https://reactjs.org/
+svelte: https://svelte.dev/
+
+nuxt: https://nuxtjs.org/
+nextjs: https://nextjs.org/
+
+vuex:
+  url: https://vuex.vuejs.org/
+  src: https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png
+redux: https://redux.js.org/
+
+
+react-native: https://reactnative.dev/
+nativescript: https://nativescript.org/
+
+
+electron: https://www.electronjs.org/
+
+flask: https://flask.palletsprojects.com/
+express: https://expressjs.com/
+
+jest:
+  url: https://jestjs.io/
+  src: https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png
+karma:
+  url: https://karma-runner.github.io/latest/index.html
+  src: https://avatars3.githubusercontent.com/u/3284117?s=400&v=4
+jasmine:
+  url: https://jasmine.github.io/
+  src: https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png
+Testing Library:
+  url: https://testing-library.com
+  src: https://s.gravatar.com/avatar/2f2eda5f99088f9a2bd3c7d65775f323
+stryker:
+  url: https://stryker-mutator.io/
+  src: https://stryker-mutator.io/images/stryker.svg
+
+phaser: https://phaser.io/
+
+nodejs: https://nodejs.org/
+deno: https://deno.land/
+raspberry-pi: https://www.raspberrypi.org/
+arduino: https://www.arduino.cc/
+
+webpack: https://webpack.js.org/
+parcel:
+  url: https://parceljs.org/
+  src: https://parceljs.org/assets/favicon.ico
+babel: https://babeljs.io/
+eslint: https://eslint.org/
+rome:
+  url: https://romefrontend.dev/
+  src: https://user-images.githubusercontent.com/1084297/81484284-bfa09a80-921a-11ea-9b1b-00d9b60d2a94.png
+
+gulp: https://gulpjs.com/
+storybook: https://storybook.js.org/
+stylelint:
+  url: https://stylelint.io/
+  src: https://cdn.worldvectorlogo.com/logos/stylelint.svg
+
+visual-studio-code: https://code.visualstudio.com/
+
+npm: https://www.npmjs.com/
+pip: https://pypi.org/project/pip/
+
+graphql: https://graphql.org/
+apollo:
+  url: https://www.apollographql.com/
+  src: https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png
+
+vercel: https://vercel.com/
+
+auth0: https://auth0.com/
+chrome-extension: https://developer.chrome.com/extensions
+editorconfig:
+  url: https://editorconfig.org/
+  src: https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png
+firebase: https://firebase.google.com/
+heroku: https://heroku.com/
+jwt:
+  url: https://jwt.io/
+  src: https://jwt.io/img/pic_logo.svg
+
+mongodb: https://www.mongodb.com/
+mongoose: https://mongoosejs.com/
+
+pwa: https://web.dev/progressive-web-apps/
+sqlite: https://www.sqlite.org/index.html
+styled-components: https://styled-components.com/
+terminal: https://en.wikipedia.org/wiki/HTTP_404
+web-components: https://developer.mozilla.org/en-US/docs/Web/Web_Components
+web-assembly: https://webassembly.org/
+lodash:
+  url: https://ramdajs.com/
+  src: https://cdn.worldvectorlogo.com/logos/lodash.svg
+ramda:
+  url: https://lodash.com/
+  src: https://ramdajs.com/ramdaFilled_200x235.png
+animejs:
+  url: https://animejs.com/
+  src: https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/10/1477673935anime-logo.png
+
+tailwind: https://tailwindcss.com/
+
+bulma:
+  url: https://bulma.io/
+  src: https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png
+
+vuetify:
+  url: https://vuetifyjs.com/
+  src: https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png
+
+lerna:
+  url: https://lerna.js.org/
+  src: https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png
