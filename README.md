@@ -1,9 +1,11 @@
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Milesq&desc=asd&color=_00dec7) -->
+
 <img src="https://raw.githubusercontent.com/Milesq/Milesq/master/assets/Hi.gif" width="25px">
 
 <!-- I am a self-taught programmer who is passionate about programming. Hater of the educational system. I began learning at the age of 15 - before I went to IT high school. Immediately following graduation, I went to work as a full-time developer. -->
 
-<!-- I started learning programming at the age of 15, 2806 days ago. A few weeks after I got a stable internet access. I began learning how to build websites with HTML&CSS, then fell into C++ & JS -->
-Learning programming for 2806 days
+<!-- I started learning programming at the age of 15, 2856 days ago. A few weeks after I got a stable internet access. I began learning how to build websites with HTML&CSS, then fell into C++ & JS -->
+Learning programming for 2856 days
 
 I am a passionate, mid developer, aiming to specialise in advanced cloud solutions by leveraging the strengths of low-level languages such as Rust and Go. I am fascinated by the syntax and elegance of these modern languages, which provide high performance, security and great developer experience.
 
@@ -12,15 +14,16 @@ My relationship with programming began in my teenage years and I am constantly s
 Outside of coding, I enjoy complex board games, tea, physics and the philosophy of science.
 
 I believe in the importance of humility and keeping my ego in check, which helps me stay open to learning and growing. PS Ego is your enemy
-<!-- I have to restructurize my bio
-Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth like that -->
 
+## ❤️ Most loved technologies
 
 -   :crab: Rust
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> TS
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"> AWS
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> Vue
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> GraphQL
+
+Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth like that
 
 <!-- ## What I want to learn -->
 <!-- hugo -->
@@ -33,14 +36,13 @@ Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth lik
 <!-- -   <img width="20" src="https://raw.githubusercontent.com/godotengine/godot/master/icon.png" alt="Godot's logo" /> Godot -->
 
 
-## What I want to master <img width="32" src="https://raw.githubusercontent.com/Milesq/Milesq/master/assets/Vader.png" alt="Darth Vader" />
-
+<!-- ## What I want to master <img width="32" src="https://raw.githubusercontent.com/Milesq/Milesq/master/assets/Vader.png" alt="Darth Vader" /> -->
 
 <a target="blank" href="https://www.credly.com/badges/a8d4cc81-ae72-43f2-94db-f69933775b67">
     <img width="192" src="https://raw.githubusercontent.com/Milesq/Milesq/master/assets/aws-certified-developer-associate.png" alt="AWS Certificate Badge - Developer Associate" />
 </a>
 
-## My stack
+## 🧠 My Stack
 
 <div>
 <p align="left">
