@@ -24,6 +24,4 @@ jobs:
           pip install -r requirments.txt
           python generate-known-using.py
           git add .
-          git commit --no-edit --amend
-          git push --force
 
