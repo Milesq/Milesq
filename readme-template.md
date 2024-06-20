@@ -12,15 +12,16 @@ My relationship with programming began in my teenage years and I am constantly s
 Outside of coding, I enjoy complex board games, tea, physics and the philosophy of science.
 
 I believe in the importance of humility and keeping my ego in check, which helps me stay open to learning and growing. PS Ego is your enemy
-<!-- I have to restructurize my bio
-Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth like that -->
 
+## ❤️ Most loved technologies
 
 -   :crab: Rust
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> TS
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"> AWS
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> Vue
 -   <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> GraphQL
+
+Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth like that
 
 <!-- ## What I want to learn -->
 <!-- hugo -->
