@@ -1,0 +1,29 @@
+name: Update readme
+
+on:
+  push:
+  schedule:
+    - cron:  '0 6 * * *'
+
+jobs:
+  update-day:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - run: |
+          git config user.name "Milesq"
+          git config user.email "wmilosz88@gmail.com"
+
+          pip install -r requirments.txt
+          python generate-known-using.py
+          git add .
+          git commit --no-edit --amend
+          git push --force
+
