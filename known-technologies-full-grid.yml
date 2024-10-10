@@ -1,0 +1,123 @@
+javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+typescript: https://www.typescriptlang.org/
+rust: https://www.rust-lang.org/
+python: https://www.python.org/
+go: https://golang.org/
+
+html: https://www.w3.org/html/
+css: https://css-tricks.com/
+sass: https://sass-lang.com/
+json: https://www.json.org/json-en.html
+toml:
+  url: https://github.com/toml-lang/toml
+  icon: https://raw.githubusercontent.com/toml-lang/toml/master/logos/toml.svg
+yaml: https://yaml.org/
+markdown: https://daringfireball.net/projects/markdown/syntax
+
+docker: https://www.docker.com/
+git: https://git-scm.com/
+github: https://github.com
+
+vue: http://vuejs.org/
+react: https://reactjs.org/
+svelte: https://svelte.dev/
+
+nuxt: https://nuxtjs.org/
+nextjs: https://nextjs.org/
+
+pinia:
+  url: https://pinia.esm.dev
+  icon: https://pinia.esm.dev/logo.svg
+vuex:
+  url: https://vuex.vuejs.org/
+  icon: https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png
+redux: https://redux.js.org/
+
+react-native: https://reactnative.dev/
+nativescript: https://nativescript.org/
+
+electron: https://www.electronjs.org/
+
+flask: https://flask.palletsprojects.com/
+fastapi:
+  icon: https://fastapi.tiangolo.com/img/icon-white.svg
+  url: https://fastapi.tiangolo.com/
+
+express: https://expressjs.com/
+
+jest:
+  url: https://jestjs.io/
+  icon: https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png
+karma:
+  url: https://karma-runner.github.io/latest/index.html
+  icon: https://avatars3.githubusercontent.com/u/3284117?s=400&v=4
+jasmine:
+  url: https://jasmine.github.io/
+  icon: https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png
+Testing Library:
+  url: https://testing-library.com
+  icon: https://s.gravatar.com/avatar/2f2eda5f99088f9a2bd3c7d65775f323
+stryker:
+  url: https://stryker-mutator.io/
+  icon: https://stryker-mutator.io/images/stryker.svg
+
+# phaser: https://phaser.io/
+
+nodejs: https://nodejs.org/
+# deno: https://deno.land/
+
+webpack: https://webpack.js.org/
+vite:
+  url: https://vitejs.dev
+  icon: https://vitejs.dev/logo.svg
+babel: https://babeljs.io/
+eslint: https://eslint.org/
+
+storybook: https://storybook.js.org/
+stylelint:
+  url: https://stylelint.io/
+  icon: https://cdn.worldvectorlogo.com/logos/stylelint.svg
+
+visual-studio-code: https://code.visualstudio.com/
+
+graphql: https://graphql.org/
+apollo:
+  url: https://www.apollographql.com/
+  icon: https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png
+
+chrome-extension: https://developer.chrome.com/extensions
+editorconfig:
+  url: https://editorconfig.org/
+  icon: https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png
+
+firebase: https://firebase.google.com/
+
+mongodb: https://www.mongodb.com/
+
+prisma:
+  url: https://prisma.io
+  icon: https://logo.clearbit.com/prisma.io
+
+pwa: https://web.dev/progressive-web-apps/
+styled-components: https://styled-components.com/
+terminal: https://en.wikipedia.org/wiki/HTTP_404
+web-assembly: https://webassembly.org/
+lodash:
+  url: https://ramdajs.com/
+  icon: https://cdn.worldvectorlogo.com/logos/lodash.svg
+ramda:
+  url: https://lodash.com/
+  icon: https://ramdajs.com/ramdaFilled_200x235.png
+
+socket-io: https://socket.io/
+
+tailwind: https://tailwindcss.com/
+unocss:
+  icon: https://windicss.org/assets/logo.svg
+  url: https://windicss.org/
+
+bulma: https://bulma.io/
+
+vuetify:
+  url: https://vuetifyjs.com/
+  icon: https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png

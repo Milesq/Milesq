@@ -1,0 +1,26 @@
+aws: https://aws.amazon.com/
+terraform:
+  url: https://www.terraform.io/
+  icon: https://www.terraform.io/favicon.ico
+firebase: https://firebase.google.com/
+typescript: https://www.typescriptlang.org/
+
+rust: https://www.rust-lang.org/
+python: https://www.python.org/
+go: https://golang.org/
+
+sass: https://sass-lang.com/
+
+docker: https://www.docker.com/
+git: https://git-scm.com/
+
+vue: http://vuejs.org/
+svelte: https://svelte.dev/
+
+nuxt: https://nuxtjs.org/
+
+visual-studio-code: https://code.visualstudio.com/
+
+graphql: https://graphql.org/
+
+tailwind: https://tailwindcss.com/
