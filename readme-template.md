@@ -57,6 +57,9 @@ Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth lik
 </p>
 </div>
 
+<img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
+
+
 <!-- <h3 align="center">My stats</h3> -->
 <!-- Some time ago I removed my stats from my profile summary. They don't define me. Measuring points, commit stats, and streaks is not a bad thing per se. However it's very easy to go too far and get into negative competition and comparisons. -->
 

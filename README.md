@@ -4,8 +4,8 @@
 
 <!-- I am a self-taught programmer who is passionate about programming. Hater of the educational system. I began learning at the age of 15 - before I went to IT high school. Immediately following graduation, I went to work as a full-time developer. -->
 
-<!-- I started learning programming at the age of 15, 2922 days ago. A few weeks after I got a stable internet access. I began learning how to build websites with HTML&CSS, then fell into C++ & JS -->
-Learning programming for 2922 days
+<!-- I started learning programming at the age of 15, 3113 days ago. A few weeks after I got a stable internet access. I began learning how to build websites with HTML&CSS, then fell into C++ & JS -->
+Learning programming for 3113 days
 
 I am a passionate, mid developer, aiming to specialise in advanced cloud solutions by leveraging the strengths of low-level languages such as Rust and Go. I am fascinated by the syntax and elegance of these modern languages, which provide high performance, security and great developer experience.
 
@@ -118,6 +118,9 @@ Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth lik
 
 </p>
 </div>
+
+<img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
+
 
 <!-- <h3 align="center">My stats</h3> -->
 <!-- Some time ago I removed my stats from my profile summary. They don't define me. Measuring points, commit stats, and streaks is not a bad thing per se. However it's very easy to go too far and get into negative competition and comparisons. -->
