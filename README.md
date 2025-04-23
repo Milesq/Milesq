@@ -119,7 +119,8 @@ Favorite color: <div style="background-color: #00dec7">#00dec7</div> or smth lik
 </p>
 </div>
 
-<img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
+btw, I use Linux
+<img width="64" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
 
 
 <!-- <h3 align="center">My stats</h3> -->
